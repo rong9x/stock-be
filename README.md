@@ -138,3 +138,5 @@ schematics .:nest-add --dry-run false
 ```
 
 Helpful article about [Custom Angular Schematics](https://medium.com/@tomastrajan/total-guide-to-custom-angular-schematics-5c50cf90cdb4) which also applies to Nest.
+
+Edit readme
